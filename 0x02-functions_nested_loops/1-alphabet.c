@@ -3,8 +3,6 @@
 /**
  * main - Entry point
  *
- * Description: A simple C program that uses _putchar to print "_putchar"
- *
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -21,3 +19,4 @@ int main(void)
 
 	return (0);
 }
+
